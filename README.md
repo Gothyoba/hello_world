@@ -1,4 +1,4 @@
-# hello_world
+# Hello, World!
 
 This is a small collection of hello world programs. Not all of these are made in a programming language, and some may require extra files,
 
