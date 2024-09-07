@@ -2,8 +2,8 @@
 
 This is a small collection of hello world programs. Not all of these are made in a programming language, and some may require extra files, which is why they are stored in folders.
 
-For example, css requires html, C++ needs to be compiled, and languages such as gambas and gdscript require a whole
-project to work.
+For example, css requires html, C++ needs to be compiled, and languages such as gambas and gdscript have a whole
+project.
 
 Some of these are not programming languages, such as libreoffice, text and minecraft (which simply shows a command which can be pasted
 into the game.)
